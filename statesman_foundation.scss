@@ -1,0 +1,12 @@
+.cmFooterTerms p {font-size: 12px;}
+/* for sharing button */
+button, .button {background-color: #ba0000;}
+button, .button {color:white;}
+button, .button {border-color: #ba0000;}
+button:hover, button:focus, .button:hover, .button:focus {
+    background-color: #ba0000; }
+button:hover, button:focus, .button:hover, .button:focus {
+    color: white; }
+button:visited, .button:visited {color:white}
+button.tiny, .button.tiny {font-size: .9rem}
+st.Button .stButton_gradient, .stButton .stButton_gradient, .stButton .stFb, .stButton .stTwbutton, .stButton .stMainServices {height: 23px !important}

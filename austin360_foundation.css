@@ -1,0 +1,25 @@
+a: {#ba0000}
+a:link {color:#ba0000;text-decoration:underline;}      /* unvisited link */
+a:visited {color:#ba0000;text-decoration:underline;}  /* visited link */
+a:hover {color:#ba0000;text-decoration:none;}  /* mouse over link */
+a:active {color:#ba0000;text-decoration:underline;}  /* selected link */
+.cmFooterTerms p {font-size: 12px;}
+
+button, .button {background-color: #ba0000;}
+button, .button {color:white;}
+button, .button {border-color: #ba0000;}
+button:hover, button:focus, .button:hover, .button:focus {
+    background-color: #ba0000; }
+button:hover, button:focus, .button:hover, .button:focus, button:visited, .button:visited {
+    color: white; }
+{color:white;}
+button.tiny, .button.tiny {font-size: .9rem}
+
+/* for sharing button */
+st.Button .stButton_gradient, .stButton .stButton_gradient, .stButton .stFb, .stButton .stTwbutton, .stButton .stMainServices {height: 23px !important}
+
+/*
+#venue {padding: 10px 20px 7px 20px}
+#venue h3 {font:1.4rem Arial Black,sans-serif}
+#venue p {font:1rem Arial, sans-serif}
+*/
